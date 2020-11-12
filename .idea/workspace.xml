@@ -1,11 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17685baa-8904-4270-a528-38d1a91f66b1" name="Default Changelist" comment="" />
+    <list default="true" id="17685baa-8904-4270-a528-38d1a91f66b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/routes/uploadRoutes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/blogs/BlogFormReview.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/blogs/BlogFormReview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/blogs/BlogShow.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/blogs/BlogShow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/blogRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/blogRoutes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/setup.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/setup.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,12 +43,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/client/src" />
     </key>
   </component>
@@ -37,11 +61,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604963669842</updated>
-      <workItem from="1604963670944" duration="1376000" />
+      <workItem from="1604963670944" duration="8742000" />
+      <workItem from="1605133657516" duration="5988000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1659" height="287" key="GridCell.Tab.0.bottom" timestamp="1604983348935">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="287" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604983348935" />
+    <state width="1659" height="287" key="GridCell.Tab.0.center" timestamp="1604983348934">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="287" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604983348934" />
+    <state width="1659" height="287" key="GridCell.Tab.0.left" timestamp="1604983348934">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="287" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604983348934" />
+    <state width="1659" height="287" key="GridCell.Tab.0.right" timestamp="1604983348935">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="287" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604983348935" />
+    <state x="538" y="280" width="604" height="490" key="find.popup" timestamp="1605144488333">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="538" y="280" width="604" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1605144488333" />
   </component>
 </project>
